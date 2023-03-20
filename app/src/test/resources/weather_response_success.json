@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": -84.4096,
+    "lat": 33.7859
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 41.59,
+    "feels_like": 35.02,
+    "temp_min": 39.02,
+    "temp_max": 44.24,
+    "pressure": 1020,
+    "humidity": 47
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 11.5,
+    "deg": 310,
+    "gust": 23.02
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1679203277,
+  "sys": {
+    "type": 2,
+    "id": 2006620,
+    "country": "US",
+    "sunrise": 1679226182,
+    "sunset": 1679269674
+  },
+  "timezone": -14400,
+  "id": 4196508,
+  "name": "Fulton",
+  "cod": 200
+}
